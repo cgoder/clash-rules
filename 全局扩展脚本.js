@@ -209,7 +209,7 @@ const rules = [
 const groupBaseOption = {
   "interval": 300,
   "timeout": 3000,
-  "url": "https://www.google.com/generate_204",
+  "url": "http://www.msftconnecttest.com/connecttest.txt",
   "lazy": false,
   "max-failed-times": 3,
 };

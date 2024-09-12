@@ -26,6 +26,7 @@ const dnsConfig = {
   "enable": true,
   "listen": "0.0.0.0:1053",
   "ipv6": true,
+  "prefer-h3": true,
   "use-system-hosts": false,
   "cache-algorithm": "arc",
   "enhanced-mode": "fake-ip",

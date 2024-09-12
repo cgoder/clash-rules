@@ -346,7 +346,7 @@ function main(config) {
       "name": "广告过滤",
       "type": "select",
       "hidden": true,
-      "proxies": ["REJECT", "DIRECT"],
+      "proxies": ["REJECT"],
       "icon": "https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/bug.svg"
     },
     {

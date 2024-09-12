@@ -190,7 +190,7 @@ const rules = [
   "RULE-SET,applications,全局直连",
   "RULE-SET,private,全局直连",
   "RULE-SET,reject,广告过滤",
-  "RULE-SET,icloud,微软服务",
+  "RULE-SET,icloud,苹果服务",
   "RULE-SET,apple,苹果服务",
   "RULE-SET,google,谷歌服务",
   "RULE-SET,proxy,节点选择",

@@ -1,8 +1,9 @@
 // 国内DNS服务器
 const domesticNameservers = [
-  "https://dns.alidns.com/dns-query", // 阿里云公共DNS
   "https://doh.pub/dns-query", // 腾讯DNSPod
+  "https://doh.pub/dns-query",
   "https://doh.360.cn/dns-query", // 360安全DNS
+  "https://dns.alidns.com/dns-query", // 阿里云公共DNS
   "https://dns.alidns.com/dns-query//h3=true",
 ];
 // 国外DNS服务器

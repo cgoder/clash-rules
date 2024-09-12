@@ -373,6 +373,11 @@ function main(config) {
   config["rule-providers"] = ruleProviders;
   config["rules"] = rules;
 
+  // 覆盖原配置中tcp配置
+  config["tcp-concurrent"] = true;
+  config["unified-delay"] = true;
+  
+
   // 返回修改后的配置
   return config;
 }
